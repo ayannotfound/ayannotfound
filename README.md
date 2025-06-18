@@ -1,16 +1,46 @@
-## Hi there 👋
+# 👋 Hey, I'm Ayan
 
-<!--
-**ayannotfound/ayannotfound** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**A curious mind building cool stuff with Python and exploring full-stack development**
 
-Here are some ideas to get you started:
+![Profile Views](https://komarev.com/ghpvc/?username=ayannotfound&style=flat-square)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+- 🧠 I love building intelligent and useful tools — from weather apps to AI-based summarizers.
+- 🎓 Pursuing **BCA** from **Birla Institute of Technology, Mesra**.
+- 💻 Mostly working with **Python**, **Flask**, **Tkinter**, **JavaScript**, and **HTML/CSS**.
+
+### 🧪 Some Projects
+
+- 🔎 [Article Summary](https://github.com/ayannotfound/Article-Summary) — Clean summaries of any article using NLP  
+- ☀️ [Weather App](https://github.com/ayannotfound/Weather) — Live weather updates with city search and alerts  
+- 🧑‍💻 [Facerec](https://github.com/ayannotfound/Facerec) — Face Recognition with a web interface
+
+---
+
+## 🛠 Tech Stack
+
+- **Languages**: Python, JavaScript, HTML, CSS
+- **Frameworks**: Flask, Tkinter
+- **Tools**: Git, GitHub, VS Code
+
+---
+
+## 📊 GitHub Stats
+
+![Ayan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayannotfound&show_icons=true&theme=tokyonight)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ayannotfound&theme=tokyonight)
+
+---
+
+## 🔗 Contact Me
+
+- 📬 Email: ayanwastaken0@gmail.com  
+- 🌐 Portfolio: coming soon...
+
+---
+
+> Thanks for visiting! Feel free to explore my repos or star ⭐ what you like!
