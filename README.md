@@ -32,7 +32,7 @@
 
 ![Ayan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayannotfound&show_icons=true&theme=tokyonight)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ayannotfound&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=ayannotfound&theme=tokyonight)
 
 ---
 
