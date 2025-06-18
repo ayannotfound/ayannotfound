@@ -16,7 +16,8 @@
 
 - 🔎 [Article Summary](https://github.com/ayannotfound/Article-Summary) — Clean summaries of any article using NLP  
 - ☀️ [Weather App](https://github.com/ayannotfound/Weather) — Live weather updates with city search and alerts  
-- 🧑‍💻 [Facerec](https://github.com/ayannotfound/Facerec) — Face Recognition with a web interface
+- 🧑‍💻 [FaceRecognition-Attendance](https://github.com/ayannotfound/FaceRecognition-Attendance) — Face Recognition with a web interface
+- 🧠 [🧠 LexiCounsel](https://github.com/ayannotfound/LexiCounsel) – An AI-powered assistant built using Kotlin, Jetpack Compose, and NLP backend that assists users with law-related queries using NLP.
 
 ---
 
