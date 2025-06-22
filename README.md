@@ -16,7 +16,7 @@
 
 - 🔎 [Article Summary](https://github.com/ayannotfound/Article-Summary) — Clean summaries of any article using NLP  
 - ☀️ [Weather App](https://github.com/ayannotfound/Weather) — Live weather updates with city search and alerts
-- 💬 [Chat](https://github.com/ayannotfound/Chat) – A full-stack real-time chat app with user authentication, cookie-based login, MongoDB storage, and Socket.IO-powered messaging.
+- 💬 [Chat](https://github.com/ayannotfound/Chat) – A full-stack real-time chat app with cookie-based user authentication, MongoDB storage, and Socket.IO-powered messaging.
 - 🧑‍💻 [FaceRecognition-Attendance](https://github.com/ayannotfound/FaceRecognition-Attendance) — Face Recognition with a web interface
 - 🧠 [LexiCounsel](https://github.com/ayannotfound/LexiCounsel) – An AI-powered assistant built using Kotlin, Jetpack Compose, and NLP backend that assists users with law-related queries using NLP.
 
