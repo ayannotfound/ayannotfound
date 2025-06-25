@@ -24,9 +24,10 @@
 
 ## 🛠 Tech Stack
 
-- **Languages**: Python, JavaScript, HTML, CSS
-- **Frameworks**: Flask, Tkinter
-- **Tools**: Git, GitHub, VS Code
+- **Languages:** JavaScript, Python, HTML, CSS  
+- **Frameworks / Libraries:** Express.js, Flask, Tkinter, Socket.IO  
+- **Databases:** MongoDB (Mongoose), SQLite  
+- **Tools:** Node.js, Git, GitHub, VS Code, Render  
 
 ---
 
