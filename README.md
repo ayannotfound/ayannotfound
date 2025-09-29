@@ -28,7 +28,8 @@
 
 - 🧑‍💻 **[FaceTrace](https://github.com/ayannotfound/FaceTrace)**  
   Automatic attendance system using **Flask + OpenCV**.  
-  Real-time face data capture, registration, and attendance tracking — all via browser.  
+  Real-time face data capture, registration, and attendance tracking — all via browser.
+  🔗 Live Demo: [facetrace-c6di.onrender.com](https://facetrace-c6di.onrender.com/)  
 
 - 💬 **[EchoRoom](https://github.com/ayannotfound/EchoRoom)**  
   Full-stack real-time chat app with **Node.js, Express.js, Socket.IO, MongoDB**.  
