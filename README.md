@@ -86,8 +86,8 @@
 ## 🔗 Connect with Me  
 
 - 📬 Email: **ayanwastaken0@gmail.com**  
-- 💼 LinkedIn: [linkedin.com/in/ayush-anand-420590306](https://linkedin.com/in/ayush-anand-420590306)  
-- 🌐 Portfolio: *coming soon…*  
+- 💼 LinkedIn: [linkedin.com/in/ayannotfound](https://linkedin.com/in/ayannotfound)  
+- 🌐 Portfolio: [ayannotfound.github.io/Portfolio/](https://ayannotfound.github.io/Portfolio/)
 
 ---
 
